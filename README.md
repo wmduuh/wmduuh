@@ -6,7 +6,6 @@
 
 # 💫 About Me:
 
-- 🔭 I am currently working in Technical Support for a Laptop manufacturer
 - 🌱 I am currently studying Information Technology Management
 - 👯 I contribute with the Ethereum community, translating documentation to Portuguese
 - 🤔 I am willing to help and expand the Blockchain technology
