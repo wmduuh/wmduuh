@@ -1,30 +1,73 @@
+<h1 align="center">👋 Olá, eu sou o José Eduardo</h1>
 
-
-<!--
-**wmduuh/wmduuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
-
-# 💫 About Me:
-
-- 🌱 Graduate in IT Management and postgraduate student in Artificial Intelligence and Machine Learning
-- 👯 I contribute with the Ethereum community, translating documentation to Portuguese
-- 🤔 I am willing to help and expand the Blockchain technology and IA
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wmduuh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wmduuh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wmduuh) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wmduuh&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wmduuh&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmduuh&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wmduuh&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <b>Analista de Suporte e Sustentação • Continuidade Operacional • Monitoramento • ITSM</b><br>
+  Pós-graduando em Inteligência Artificial e Machine Learning
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wmduuh&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre mim
+
+- 👨‍💻 Atuo com **Sustentação de Sistemas Críticos**, análise de incidentes, troubleshooting N2 e governança operacional.  
+- 🔄 Experiência na coordenação de **incidentes massivos**, priorização por impacto e comunicação com stakeholders.  
+- 🛠 Trabalho com automações, integração entre áreas de TI, Operação e Digital.  
+- 📚 Graduado em Gestão de TI e pós-graduando em **Inteligência Artificial & Machine Learning (PUC Minas)**.  
+- 🤖 Participante do **Bootcamp TIVIT – .NET com GitHub Copilot**.  
+- 🌱 Estudando Azure, Monitoramento (Zabbix/Datadog) e práticas de Infra Cloud.
+
+---
+
+## 🌐 Redes sociais
+
+<p>
+  <a href="https://instagram.com/wmduuh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wmduuh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@wmduuh"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+### 🔹 **Sustentação e Operações**
+<p>
+  <img src="https://img.shields.io/badge/ITSM-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+### 🔹 **Cloud e Infraestrutura**
+<p>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+</p>
+
+### 🔹 **Desenvolvimento & Automação**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Certificações e Estudos
+
+- 🎓 Gestão da Tecnologia da Informação – Concluído  
+- 🎓 Pós-graduação em IA & Machine Learning – *Em andamento (PUC Minas)*  
+- 🧠 Bootcamp **TIVIT – .NET + GitHub Copilot** – *Em andamento*  
+- 📘 ITIL Fundamentos – (em estudo)
+
+---
+
+## 📌 Projetos em Destaque
+
+> *Adicione os links quando quiser. Aqui vão sugestões que combinam com você.*
+
+- 🔧 [Script de Automação com PowerShell – Gestão de Logs e Acesso](#)
+- ⚙️ [Monitoramento de Serviços com Python](#)
