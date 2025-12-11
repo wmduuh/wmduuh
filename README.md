@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o José Eduardo</h1>
+<h1 align="center">👋 Olá, eu sou  José Eduardo</h1>
 
 <p align="center">
   <b>Analista de Suporte e Sustentação • Continuidade Operacional • Monitoramento • ITSM</b><br>
